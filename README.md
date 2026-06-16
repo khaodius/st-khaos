@@ -1,7 +1,5 @@
 # st - simple terminal
 
-st is a simple terminal emulator for X which sucks less.
-
 This repository is just a fork of [st](https://git.suckless.org/st) from tag `0.8.2`,
 with some cool patches applied on top :smile:.
 
